@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const profileDataArgs = process.argv.slice(2);
 
 const printProfileData = profileDataArr => {
@@ -13,3 +14,8 @@ const printProfileData = profileDataArr => {
 };
 
 printProfileData(profileDataArgs);
+=======
+console.log('Hello Node!');
+
+
+>>>>>>> f366a7c77f28c52926011635fb6359d4de93a5cd
