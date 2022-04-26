@@ -1,11 +1,11 @@
+const fs = require('fs');
+const generatePage = require('./src/page-template.js');
+
 const profileDataArgs = process.argv.slice(2);
 
-const printProfileData = profileDataArr => {
-  // This...
-  for (let i = 0; i < profileDataArr.length; i += 1) {
-    console.log(profileDataArr[i]);
-  }
+const [name, github] = profileDataArgs;
 
+<<<<<<< HEAD
   console.log('================');
 
   // Is the same as this...
@@ -13,3 +13,5 @@ const printProfileData = profileDataArr => {
 };
 
 printProfileData(profileDataArgs);
+=======
+>>>>>>> develop

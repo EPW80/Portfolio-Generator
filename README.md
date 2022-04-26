@@ -7,7 +7,6 @@
 - JavaScript
 - node.js
 
-
 ## Website
 
 https://github.com/EPW80/Portfolio-Generator.git
@@ -31,10 +30,7 @@ for more information or if you have a question: email [erikpw009@gmail.com](erik
 
 ## Contribution:
 
-Erik Williams 
-<br />
-Anthony Ledesma
-<br />
+Erik Williams
 
 ## License
 
