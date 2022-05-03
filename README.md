@@ -16,15 +16,16 @@ https://github.com/EPW80/Portfolio-Generator.git
 
 ## Deployment
 
-*This project will only be deployed once you clone repo to your desktop*
+*This is an assignment for the UCLA Coding Bootcamp. This project will only be deployed once you clone the repository to your desktop. Feel free to use any styles you like. Thank you.*
 
 
 ## Mock-up
 
-![Book-Search: Erik Williams](/assets/images/projectPhoto.jpg)
-![Book-Search: Erik Williams](/assets/images/projectPhoto2.jpg) 
+![Portfolio-Generator: Erik Williams](/assets/images/projectPhoto.png)
+![Portfolio-Generator: Erik Williams](/assets/images/projectPhoto2.png) 
 
 ## Challenges
+Grasping the concept and use of node.js
 
 ## Test
 None
@@ -39,7 +40,5 @@ Erik Parra Williams
 
 ## License
 License
-
-EPW - 2022
 
 #### ©️2022 EPW
